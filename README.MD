@@ -8,7 +8,8 @@
 
 
 ### **ICON** : 4169E1, #202020, #FFCC01 색상만 사용, 오리 그림
-![ICON](icon/icon.png)
+<img src="./icon/icon.png" width="200" alt="프로젝트 아이콘">
+
 
 
 ### **주요 기능**
