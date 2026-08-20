@@ -1,7 +1,7 @@
-#Project **D.U.C.K**
+# Project **D.U.C.K**
 
 
-##Detect, Unmanned ,Care, Keep
+## Detect, Unmanned ,Care, Keep
 
 
 **앱 연동 이상고열감지, 침입자감지, 수면관리 통합 무인 케어 및 알람 서비스.**
